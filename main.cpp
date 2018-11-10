@@ -18,9 +18,6 @@ void test(const char *expr) {
 }
 int main(int argc, char** argv) {
 	
-	test("");
-	test("azza");
-	test("10+10&");
 	test("12356789");
 	test("333.444");
 	test("111.111+222.222");
